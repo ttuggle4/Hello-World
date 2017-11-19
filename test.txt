@@ -1,1 +1,2 @@
 creating a document for git
+updated committed and pushed this change
